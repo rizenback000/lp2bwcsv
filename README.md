@@ -12,7 +12,7 @@ THIS SCRIPTS WAS DEVELOPED FOR MY PERSONAL USE. COMPLETE OPERATION IS NOT GUARAN
 1. install [lpass-cli](https://github.com/lastpass/lastpass-cli).
 1. Exporting account information from LastPass.　```./lpass_to_file.sh```
 1. Put lpass_file_delete_this.txt in the same place as main.py (usually output in the same folder)
-1. Run script to convert to CSV file.　```python main.py```
+1. Run script to convert to CSV file.　```python3.9 lp2bwcsv.py```
 1. Import output CSV as [Bitwarden(CSV)](https://vault.bitwarden.com/#/tools/import).
 
 ## Disclaimer
