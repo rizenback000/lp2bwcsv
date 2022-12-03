@@ -3,7 +3,7 @@ import os
 import re
 
 """
-    lp2bw: This script outputs the CSS for Bitwarden import from information that can be obtained from the LastPassCLI.
+    lp2bw: This script outputs the CSV for Bitwarden import from information that can be obtained from the LastPassCLI.
     Copyright (C) 2022  rizenback000
 
     This program is free software: you can redistribute it and/or modify
